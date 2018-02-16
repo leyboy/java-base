@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookstore SYSTEM "D:\javaWorkspace\java-base\src\book-store.dtd" >
+<bookstore>
+	<book>
+		<id>1</id>
+		<name>童话的故事</name>
+		<author>安徒生</author>
+		<year>2014</year>
+		<price>5000</price>
+	</book>
+	<book>
+		<id>2</id>
+		<name>白雪公主</name>
+		<author>我的世界</author>
+		<year>2015</year>
+		<price>1000</price>
+	</book>
+	<book>
+		<id>3</id>
+		<name>刘恩源</name>
+		<author>我的世界</author>
+		<year>2015</year>
+		<price>1000</price>
+	</book>
+</bookstore>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE newspaper PUBLIC "newspaper" "news-paper.dtd" >
+<newspaper>
+  <article author="">
+    <headline>headline</headline>
+    <byline>byline</byline>
+    <lead>lead</lead>
+    <body>body</body>
+    <notes>notes</notes>
+  </article>
+</newspaper>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT newspaper (article+)>
+<!ELEMENT article (headline,byline,lead,body,notes)>
+<!ELEMENT headline (#PCDATA)>
+<!ELEMENT byline (#PCDATA)>
+<!ELEMENT lead (#PCDATA)>
+<!ELEMENT body (#PCDATA)>
+<!ELEMENT notes (#PCDATA)>
+
+<!ATTLIST article author CDATA #REQUIRED>
+<!ATTLIST article editor CDATA #IMPLIED>
+<!ATTLIST article date CDATA #IMPLIED>
+<!ATTLIST article edition CDATA #IMPLIED>
+
+<!ENTITY newpaper "Vervet Logic Times">
+<!ENTITY newspaper "Vervet Logic Press">
+<!ENTITY copyright "Copyright 1998 Vervet Logic Press">
